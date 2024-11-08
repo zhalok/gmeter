@@ -1,0 +1,1 @@
+go build -o gmeter && sudo mv gmeter /usr/local/bin

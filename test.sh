@@ -1,0 +1,1 @@
+gmeter loadtest --url=https://www.google.com --users=10 --method=GET
